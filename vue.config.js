@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/github-pages-example-with-vue-router',
+  publicPath: '/taskan',  // for github.io
   outputDir: 'docs',
   filenameHashing: false,
   productionSourceMap: false,
