@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">AppTop</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+    <!-- <div id="nav"> -->
+    <!--   <router&#45;link to="/">AppTop</router&#45;link> | -->
+    <!--   <router&#45;link to="/about">About</router&#45;link> -->
+    <!-- </div> -->
     <div class="container">
       <router-view/>
     </div>
@@ -21,5 +21,9 @@ body {
 }
 footer {
   height: 200px;
+}
+.container {
+  margin-top: 30px;
+  padding: 0 5px;
 }
 </style>
