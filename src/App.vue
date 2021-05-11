@@ -13,7 +13,7 @@
 
 <style lang="scss">
 @import "./assets/normalize.css";
-@import "./assets/skeleton.css";
+@import "./assets/skeleton_mod.css";
 @import url("https://fonts.googleapis.com/css2?family=Material+Icons");
 
 body {
